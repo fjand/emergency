@@ -1,4 +1,4 @@
-# Emergency card
+# Emergency Card
 
 todo:
 * Auslandskrankenversicherung?
