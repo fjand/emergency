@@ -7,16 +7,14 @@ todo:
 * Mar Asien Handynummer 
 * Passnummer
 * L Bankverbindung
-## P
-+4917657102615
 
-\<nachname\>.thomas@gmail.com
+## Kontakte
 
-## M
-+4917657102612
+*P:* +4917657102615, \<nachname\>.thomas@gmail.com
 
-## E
-+4915204733940
+*M:* +4917657102612
+
+*E:* +4915204733940
 
 ## [Deutsche Vertretungen in Thailand](https://www.auswaertiges-amt.de/de/service/laender/thailand-node/thailand-201562?openAccordionId=item-201584-3-panel)
 ### Deutsche Botschaft Bangkok
