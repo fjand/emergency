@@ -16,6 +16,8 @@ todo:
 
 *E:* +4915204733940
 
+*Money transfer:* Western Union, Moneygram
+
 ## [Deutsche Vertretungen in Thailand](https://www.auswaertiges-amt.de/de/service/laender/thailand-node/thailand-201562?openAccordionId=item-201584-3-panel)
 ### Deutsche Botschaft Bangkok
 #### Adresse
