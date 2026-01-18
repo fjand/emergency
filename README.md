@@ -18,7 +18,7 @@ todo:
 ## E
 +4915204733940
 
-## Deutsche Konsulate in Thailand
+## [Deutsche Konsulate in Thailand](https://www.auswaertiges-amt.de/de/service/laender/thailand-node/thailand-201562?openAccordionId=item-201584-3-panel)
 ### Deutsche Botschaft Bangkok
 #### Adresse
 9 South Sathorn Road, Bangkok 10120
@@ -60,3 +60,15 @@ Abteilungen
 
 *Telefon: * +66-(0) 38-422634
 Hinweis: Bei Benutzung einer Telefon- bzw. Faxverbindung via Satellit (Satcom) entstehen höhere Gebühren.
+
+### Honorarkonsulin der Bundesrepublik Deutschland Phuket
+
+*Adresse: * Honorary Consul of the Federal Republic of Germany74/56 Night Plaza, Phoonpon Rd., Talad Nuea, Mueang, Phuket 83000 Thailand
+
+*Postadresse: * Honorary Consul of the Federal Republic of Germany74/56 Night Plaza, Phoonpon Rd., Talad Nuea, Mueang, Phuket 83000 Thailand
+
+*Öffnungszeiten:* Montag bis Freitag, 09:00 bis 12:30 Uhr
+
+*E-Mail:* phuket@hk-diplo.de
+
+*Telefon: * +66 (0) 84 304 4242
