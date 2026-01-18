@@ -1,5 +1,8 @@
 # Emergency card
 
+todo:
+Scans von Reisepass, Perso, Kreditkarte hinterlegen
+
 ## P
 +4917657102615
 
