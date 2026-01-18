@@ -6,7 +6,7 @@ todo:
 * Mar Handynummer
 * Mar Asien Handynummer 
 * Passnummer
-* Liliths Bankverbindung
+* L Bankverbindung
 ## P
 +4917657102615
 
