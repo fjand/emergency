@@ -19,7 +19,7 @@ todo:
 +4915204733940
 
 ## Deutsche Konsulate in Thailand
-### Bangkok
+### Deutsche Botschaft Bangkok
 #### Adresse
 9 South Sathorn Road, Bangkok 10120
 #### Postadresse
@@ -39,3 +39,24 @@ Abteilungen
 *Fax:* +66 (0) 2285 6232
 
 *Website:* http://www.bangkok.diplo.de
+
+### Honorarkonsul der Bundesrepublik Deutschland Chiang Mai
+
+*Adresse: * Kankklongchonpratan 199/163 Moo 3, 50100 Chiang Mai
+
+*Öffnungszeiten: * Montag bis Freitag von 9:00 bis 12:00 Uhr
+
+*E-Mail: * chiang-mai@hk-diplo.de
+
+*Telefon: * +66835737747
+
+### Honorarkonsul der Bundesrepublik Deutschland Pattaya
+
+*Adresse: * 179/168 Moo. 5 North Pattaya Road, Naklua, Banglamung, Pattaya City 20120, Chonburi
+
+*Öffnungszeiten: * Montag bis Donnerstag von 10.00 Uhr - 16.00 Uhr
+
+*E-Mail: * pattaya@hk-diplo.de
+
+*Telefon: * +66-(0) 38-422634
+Hinweis: Bei Benutzung einer Telefon- bzw. Faxverbindung via Satellit (Satcom) entstehen höhere Gebühren.
