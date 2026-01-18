@@ -18,7 +18,7 @@ todo:
 ## E
 +4915204733940
 
-## [Deutsche Konsulate in Thailand](https://www.auswaertiges-amt.de/de/service/laender/thailand-node/thailand-201562?openAccordionId=item-201584-3-panel)
+## [Deutsche Vertretungen in Thailand](https://www.auswaertiges-amt.de/de/service/laender/thailand-node/thailand-201562?openAccordionId=item-201584-3-panel)
 ### Deutsche Botschaft Bangkok
 #### Adresse
 9 South Sathorn Road, Bangkok 10120
@@ -72,3 +72,23 @@ Hinweis: Bei Benutzung einer Telefon- bzw. Faxverbindung via Satellit (Satcom) e
 *E-Mail:* phuket@hk-diplo.de
 
 *Telefon: * +66 (0) 84 304 4242
+
+## [Deutsche Vertrretungen in Laos](https://www.auswaertiges-amt.de/de/service/laender/laos-node/laos-201034)
+
+### Botschaft der Bundesrepublik Deutschland Vientiane
+
+*Adresse:* 26 Sokpalouang Road, Sisattanak District, Vientiane, Laos
+
+*Postadresse:*  P.O. Box 314, Vientiane, Laos
+
+*Öffnungszeiten:* Montag bis Freitag, 9:00 bis 12:00 Uhr
+
+*Sprachen: * Deutsch, Englisch und Laotisch
+
+*Telefon:* +856 21 31 21 10 und +856 21 31 21 11
+
+*Telefonnummer für Notfälle außerhalb der Öffnungszeiten:* +856 20 5551 5540 (keine Visa-Anfragen)
+
+*Fax:* +856 21 35 11 52
+
+*Website:* http://www.vientiane.diplo.de
