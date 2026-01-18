@@ -1,7 +1,9 @@
 # Emergency card
 
 todo:
-Scans von Reisepass, Perso, Kreditkarte hinterlegen
+* Scans von Reisepass, Perso, Kreditkarte hinterlegen
+* Mar Handynummer
+* Mar Asien Handynummer 
 
 ## P
 +4917657102615
