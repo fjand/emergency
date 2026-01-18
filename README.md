@@ -92,3 +92,39 @@ Hinweis: Bei Benutzung einer Telefon- bzw. Faxverbindung via Satellit (Satcom) e
 *Fax:* +856 21 35 11 52
 
 *Website:* http://www.vientiane.diplo.de
+
+## [Deutsche Vertretungen in Vietnam](https://vietnam.diplo.de/vn-de)
+
+### Botschaft der Bundesrepublik Deutschland Hanoi
+
+*Adresse: * 27, Tran Phu, Ba Dinh, 11114 Hanoi - S.R. Vietnam
+
+*Postadresse:* Embassy of the Federal Republic of Germany, Hanoi, Vietnam.
+
+*Öffnungszeiten: * Montag–Freitag: 08.00–12.00, Montag–Donnerstag zusätzlich: 13.00–15.00 h
+
+*Bitte beachten Sie:* Für Vorsprachen in der Rechts-und Konsularabteilung ist eine vorherige Terminvereinbarung erforderlich.
+
+Sie erreichen die Botschaft über das Kontaktformular oder die Telefonnummer (+84-24) 3267 3335. Nur in dringenden Notfällen ist die Botschaft außerhalb der Dienstzeiten (abends, feiertags und am Wochenende) unter der Telefonnummer +84 936 342 598 (in deutscher und englischer Sprache) erreichbar. Der Bereitschaftsdienst ist allerdings nicht für Visaangelegenheiten zuständig.
+
+*Telefon:* (+84-24) 3267 3335
+
+*Telefonnummer für Notfälle außerhalb der Öffnungszeiten:* +84 936 342 598 (in deutscher und englischer Sprache, keine Visa-Anfragen)
+
+### Generalkonsulat der Bundesrepublik Deutschland Ho-Chi-Minh-Stadt
+
+*Adresse:* Deutsches Haus, 33 Le Duan, Ben Nghe, District 1, 70206 Ho Chi Minh City
+
+*Öffnungszeiten:* Montag–Freitag: 08.00–12.00, Montag–Donnerstag zusätzlich: 13.00–15.00 h
+
+Für Vorsprachen in der Rechts-und Konsularabteilung gelten gesonderte Öffnungszeiten, ggf. ist eine vorherige Terminvereinbarung erforderlich.
+
+Konsularsprechzeiten (für konsularische Dienstleistungen, für die keine gesonderte Terminvereinbarung erforderlich ist): montags, dienstags und donnerstags: 08:30 - 09:30
+
+Sie erreichen die Botschaft über das Kontaktformular oder die Telefonnummer (+84-24) 3267 3335. Nur in dringenden Notfällen ist die Botschaft außerhalb der Dienstzeiten (abends, feiertags und am Wochenende) unter der Telefonnummer +84 936 342 598 (in deutscher und englischer Sprache) erreichbar. Der Bereitschaftsdienst ist allerdings nicht für Visaangelegenheiten zuständig.
+
+*Telefon:* +84-(0)28-38 288 100
+
+*Telefonnummer für Notfälle außerhalb der Öffnungszeiten:* +84 93 634 2598  (in deutscher und englischer Sprache, keine Visa-Anfragen)
+
+*Fax:* +84-(0)28-38 288 101
