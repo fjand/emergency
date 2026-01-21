@@ -1,14 +1,15 @@
 # Emergency Card
 
 todo:
-* Auslandskrankenversicherung?
+* Auslandskrankenversicherung (Police scan)
 * Scans von Reisepass, Perso, Führerschein, Krankenkassenkarte, Kreditkarte, Visum, Flugtickets, Impfpass hinterlegen
-* Mar Handynummer
-* Mar Asien Handynummer 
+* Mar Asien Handynummer (hier und auswendig)
 * Passnummer
-* L Bankverbindung
+* L Bankverbindung auswendig
 
 ## Kontakte
+
+*Mar:* +491794326213
 
 *P:* +4917657102615, \<nachname\>.thomas@gmail.com
 
