@@ -43,36 +43,36 @@ Abteilungen
 
 ### Honorarkonsul der Bundesrepublik Deutschland Chiang Mai
 
-*Adresse: * Kankklongchonpratan 199/163 Moo 3, 50100 Chiang Mai
+*Adresse:* Kankklongchonpratan 199/163 Moo 3, 50100 Chiang Mai
 
-*Öffnungszeiten: * Montag bis Freitag von 9:00 bis 12:00 Uhr
+*Öffnungszeiten:* Montag bis Freitag von 9:00 bis 12:00 Uhr
 
-*E-Mail: * chiang-mai@hk-diplo.de
+*E-Mail:* chiang-mai@hk-diplo.de
 
-*Telefon: * +66835737747
+*Telefon:* +66835737747
 
 ### Honorarkonsul der Bundesrepublik Deutschland Pattaya
 
-*Adresse: * 179/168 Moo. 5 North Pattaya Road, Naklua, Banglamung, Pattaya City 20120, Chonburi
+*Adresse:* 179/168 Moo. 5 North Pattaya Road, Naklua, Banglamung, Pattaya City 20120, Chonburi
 
-*Öffnungszeiten: * Montag bis Donnerstag von 10.00 Uhr - 16.00 Uhr
+*Öffnungszeiten:* Montag bis Donnerstag von 10.00 Uhr - 16.00 Uhr
 
-*E-Mail: * pattaya@hk-diplo.de
+*E-Mail:* pattaya@hk-diplo.de
 
-*Telefon: * +66-(0) 38-422634
+*Telefon:* +66-(0) 38-422634
 Hinweis: Bei Benutzung einer Telefon- bzw. Faxverbindung via Satellit (Satcom) entstehen höhere Gebühren.
 
 ### Honorarkonsulin der Bundesrepublik Deutschland Phuket
 
-*Adresse: * Honorary Consul of the Federal Republic of Germany74/56 Night Plaza, Phoonpon Rd., Talad Nuea, Mueang, Phuket 83000 Thailand
+*Adresse:* Honorary Consul of the Federal Republic of Germany74/56 Night Plaza, Phoonpon Rd., Talad Nuea, Mueang, Phuket 83000 Thailand
 
-*Postadresse: * Honorary Consul of the Federal Republic of Germany74/56 Night Plaza, Phoonpon Rd., Talad Nuea, Mueang, Phuket 83000 Thailand
+*Postadresse:* Honorary Consul of the Federal Republic of Germany74/56 Night Plaza, Phoonpon Rd., Talad Nuea, Mueang, Phuket 83000 Thailand
 
 *Öffnungszeiten:* Montag bis Freitag, 09:00 bis 12:30 Uhr
 
 *E-Mail:* phuket@hk-diplo.de
 
-*Telefon: * +66 (0) 84 304 4242
+*Telefon:* +66 (0) 84 304 4242
 
 ## [Deutsche Vertrretungen in Laos](https://www.auswaertiges-amt.de/de/service/laender/laos-node/laos-201034)
 
@@ -84,7 +84,7 @@ Hinweis: Bei Benutzung einer Telefon- bzw. Faxverbindung via Satellit (Satcom) e
 
 *Öffnungszeiten:* Montag bis Freitag, 9:00 bis 12:00 Uhr
 
-*Sprachen: * Deutsch, Englisch und Laotisch
+*Sprachen:* Deutsch, Englisch und Laotisch
 
 *Telefon:* +856 21 31 21 10 und +856 21 31 21 11
 
@@ -98,11 +98,11 @@ Hinweis: Bei Benutzung einer Telefon- bzw. Faxverbindung via Satellit (Satcom) e
 
 ### Botschaft der Bundesrepublik Deutschland Hanoi
 
-*Adresse: * 27, Tran Phu, Ba Dinh, 11114 Hanoi - S.R. Vietnam
+*Adresse:* 27, Tran Phu, Ba Dinh, 11114 Hanoi - S.R. Vietnam
 
 *Postadresse:* Embassy of the Federal Republic of Germany, Hanoi, Vietnam.
 
-*Öffnungszeiten: * Montag–Freitag: 08.00–12.00, Montag–Donnerstag zusätzlich: 13.00–15.00 h
+*Öffnungszeiten:* Montag–Freitag: 08.00–12.00, Montag–Donnerstag zusätzlich: 13.00–15.00 h
 
 *Bitte beachten Sie:* Für Vorsprachen in der Rechts-und Konsularabteilung ist eine vorherige Terminvereinbarung erforderlich.
 
